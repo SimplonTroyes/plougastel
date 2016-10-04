@@ -3,4 +3,7 @@ Utilisez toutes les ressources, compétences techniques que vous avez abordé de
 
 Vous devez utiliser un shadowbox/lightbox pour faire apparaitre des images au clic sur celles-ci.  
 Votre page HTML doit comprendre plusieurs parties dont :  
-    - 
+    - un header
+    - un navbar
+    - une section
+    - un footer
